@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "sản phẩm B",
+      "price": "237654",
+      "id": 2
+    },
+    {
+      "name": "Sản Phẩm C",
+      "price": "234567",
+      "id": 3
+    },
+    {
+      "name": "Sản Phẩm E",
+      "price": "23456",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Sản pHẩm s",
+      "price": "12345"
+    },
+    {
+      "name": "Sản Phẩm A",
+      "price": "12233",
+      "id": 6
+    }
+  ]
+}
